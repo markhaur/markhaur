@@ -1,7 +1,6 @@
 ### Hi there 👋, It's faisal nisar 👨‍ here
 #### An enthusiastic Software Engineer who believe in continuous learning by solving challenging tasks, through online platforms and working among expert developers. I am determined to exploit my skills to the best possible level to develop solutions...
-![An enthusiastic Software Engineer who believe in continuous learning by solving challenging tasks, through online platforms and working among expert developers. I am determined to exploit my skills to the best possible level to develop solutions...](https://res.cloudinary.com/practicaldev/image/fetch/s--4BjMqsdN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4anecy5mdl4pho8w7519.jpg)
-
+![An enthusiastic Software Engineer who believe in continuous learning by solving challenging tasks, through online platforms and working among expert developers. I am determined to exploit my skills to the best possible level to develop solutions...]
 
 Skills: Linux | Java | Javascript | Python | gRPC | NodeJS | ReactJS | Spring Boot | Docker | Bash Scripts
 
