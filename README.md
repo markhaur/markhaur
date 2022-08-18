@@ -4,9 +4,9 @@
 
 Skills: Linux | Java | Javascript | Python | gRPC | NodeJS | ReactJS | Spring Boot | Docker | Bash Scripts
 
-- 🔭 I’m currently working on Java | go | docker 
+- 🔭 I’m currently working on java | go | docker 
 - 🌱 I’m currently learning go | kubernetes 
-- 👯 I’m looking to collaborate on Java | go | docker | kubernetes 
+- 👯 I’m looking to collaborate on java | go | docker | kubernetes 
 - 📫 How to reach me: fnisar394@protonmail.com 
 
 
